@@ -2,7 +2,7 @@
     <h1>Welcome to my repo, My name is Alex</h1>
     <h3>Junior java developer from Frankfurt on Main</h3>
 <div>
-<a href="https://github.com/NesterovAlexsey">
+<a href="https://www.linkedin.com/in/oleksii-nesterov-901769128/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
