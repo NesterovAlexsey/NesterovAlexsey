@@ -29,6 +29,7 @@ I believe that my combination of skills and experience make me a valuable asset 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" title="java" width="40" height="40" backgroundcolor="white">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
 </div>
 
 <!--
