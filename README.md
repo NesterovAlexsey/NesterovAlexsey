@@ -37,8 +37,8 @@ I believe that my combination of skills and experience make me a valuable asset 
 </div>
 <h3 align="left">Some github statistics</h3>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesterovAlexsey&theme=default" alt=""/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NesterovAlexsey&theme=github_dark" alt=""/>
+<img float="left" width=200px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesterovAlexsey&theme=github_dark" alt=""/>
+<img float="left" width=200px src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NesterovAlexsey&theme=github_dark" alt=""/>
 </div>
 
 <!--
