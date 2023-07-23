@@ -15,12 +15,16 @@
 <div>
 <h3 align="left">About me<h3>
 
-<p align="left" font-size: 12pt>
+<p align="left">
 I am junior Java developer, currently open for opportunities in this field. My Java educational projects and my learning's code, you can find in my repositories.
 Also, I have a strong background in project management, including IT projects. I have a higher technical education and I speak English (B2 level), German (B1 level), Ukraine (my native language), and Russian (my second native language).
 I believe that my combination of skills and experience make me a valuable asset to any team or project. If you would like to get in touch, you can always reach me via email: nesterov.alexsey@gmail.com 
 <p>
 <div>
+
+### Languages and tools
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="40" height="40" backgroundcolor="white">
+
 
 <!--
 **NesterovAlexsey/NesterovAlexsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
