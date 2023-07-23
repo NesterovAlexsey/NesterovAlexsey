@@ -1,10 +1,3 @@
-<style>
-    p {
-    font-family: Verdana, Arial, Helvetica, sans-serif; 
-    font-size: 12pt; /* Размер шрифта в пунктах */ 
-    }
-</style>
-
 <div id="header" align="center">
     <h1>Welcome to my repo👋, My name is Alex 🙂</h1>
     <h3>Junior java developer from Frankfurt am Main</h3>
@@ -22,7 +15,7 @@
 <div>
 <h3 align="left">About me<h3>
 
-<p>
+<p align="left" font-size: 12pt>
 I am junior Java developer, currently open for opportunities in this field. My Java educational projects and my learning's code, you can find in my repositories.
 Also, I have a strong background in project management, including IT projects. I have a higher technical education and I speak English (B2 level), German (B1 level), Ukraine (my native language), and Russian (my second native language).
 I believe that my combination of skills and experience make me a valuable asset to any team or project. If you would like to get in touch, you can always reach me via email: nesterov.alexsey@gmail.com 
