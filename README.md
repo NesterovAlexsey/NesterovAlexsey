@@ -33,10 +33,11 @@ I believe that my combination of skills and experience make me a valuable asset 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" title="java" width="40" height="40" backgroundcolor="white">
 </div>
 <h3 align="left">Some github statistics</h3>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesterovAlexsey&theme=github_light" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesterovAlexsey&theme=default" alt=""/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NesterovAlexsey&theme=github_dark" alt=""/>
 </div>
 
